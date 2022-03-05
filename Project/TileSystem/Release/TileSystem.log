@@ -1,0 +1,9 @@
+﻿  Tile.cpp
+  TileMap.cpp
+     Creating library E:\Repos\AstarPathfinding\A-Pathfinding\Project\Release\TileSystem.lib and object E:\Repos\AstarPathfinding\A-Pathfinding\Project\Release\TileSystem.exp
+  Generating code
+  75 of 76 functions (98.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TileSystem.vcxproj -> E:\Repos\AstarPathfinding\A-Pathfinding\Project\Release\TileSystem.dll

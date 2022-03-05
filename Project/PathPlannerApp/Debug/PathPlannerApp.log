@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  PathPlannerLab.cpp
+D:\Full Sail\AI\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.h(93,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PathPlannerApp.vcxproj -> D:\Full Sail\AI\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\Debug\PathPlannerApp.exe

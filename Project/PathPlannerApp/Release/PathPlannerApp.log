@@ -1,0 +1,8 @@
+﻿  PathPlannerLab.cpp
+E:\Repos\AstarPathfinding\A-Pathfinding\Project\PathSearch\PathSearch.h(92,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  350 of 361 functions (97.0%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PathPlannerApp.vcxproj -> E:\Repos\AstarPathfinding\A-Pathfinding\Project\Release\PathPlannerApp.exe

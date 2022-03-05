@@ -1,0 +1,5 @@
+﻿  PathSearch.cpp
+D:\Full Sail\AI\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.h(93,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Full Sail\AI\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(195,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     Creating library D:\Full Sail\AI\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\Debug\PathSearch.lib and object D:\Full Sail\AI\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\Debug\PathSearch.exp
+  PathSearch.vcxproj -> D:\Full Sail\AI\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\Debug\PathSearch.dll
